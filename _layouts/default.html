@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% seo %}
+
+  <link
+  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+  rel="stylesheet"
+  integrity="sha384-KyZXEAg3QhqLMpG8r+Knujsl5+5hb7ieDXYWYfJ96Tz7qqxsl4vUdozPz/KH3l9y"
+  crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  {% include head-custom.html %}
+</head>
+<body>
+  <div class="site-container">
+    <aside class="sidebar fade-slide-up" id="sidebar">
+      <div class="sidebar-header">
+        <h3>Navigation</h3>
+        <button id="menu-toggle" class="hamburger" aria-label="Toggle navigation">☰</button>
+      </div>
+      <nav class="sidebar-links" id="sidebar-links">
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/about-me.html">About Me</a></li>
+          <li><a href="/about-my-mentor.html">About My Mentors</a></li>
+          <li><a href="/about-my-project.html">About My Project</a></li>
+          <li><a href="/my-blog.html">My Blog</a></li>
+        </ul>
+      </nav>
+    </aside>
+    
+    
+
+    <main class="content-area fade-slide-up">
+      {{ content }}
+    </main>
+  </div>
+
+  <footer class="footer">
+    {% if site.github.is_project_page %}
+    <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+    {% endif %}
+  </footer>
+
+  <script>
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          observer.unobserve(entry.target);
+        }
+      });
+    });
+
+    document.querySelectorAll('.fade-slide-up').forEach(el => observer.observe(el));
+  </script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toggleBtn = document.getElementById("menu-toggle");
+    const navList = document.getElementById("sidebar-links");
+
+    toggleBtn.addEventListener("click", function () {
+      navList.classList.toggle("visible");
+    });
+  });
+</script>
+
+</body>
+</html>
