@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building data-driven solutions"
 
 linkedin: https://www.linkedin.com/in/yusrat/
-image: /assets/images/me-yusrat.jpg
+image: assets/images/me-yusrat
 ---
