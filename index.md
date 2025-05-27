@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Yusrat Miah
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Honesty is the first chapter in the book of wisdom. -Thomas Jefferson"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Senior, Computer Science @ Virginia Tech"
+  - "🔬 Research: Non-Contact AI-Drowsiness Detection System for Safe Driving"
+  - "📍 Based in Northern Virginia"
+  - "🚀 Passionate about building data-driven solutions"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/yusrat/
 image: /assets/images/me.jpg
 ---
