@@ -27,12 +27,12 @@ about:
       description: I love spending time in nature, whether hiking, camping, or simply exploring scenic landscapes.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/reading-image.jpg
+      caption: Reading Outdoors!
+    - image: /assets/images/transportation-image.jpg
+      caption: Favorite Road- George Washington Memorial Parkway!
+    - image: /assets/images/coding-image.jpg
+      caption: Coding Thoughtful Projects
+    - image: /assets/images/hiking-image.jpg
+      caption: Hiking Cascades National Recreation Trail!
 ---
