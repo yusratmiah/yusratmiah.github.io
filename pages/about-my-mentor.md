@@ -4,23 +4,19 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Pelumi Abiodun
+  title: Graduate Research and Teaching Assistant, Civil and Environmental Engineering, Transportation and Health
   image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  website: https://www.linkedin.com/in/abiodunpo/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Pelumi Abiodun is a Graduate Research and Teaching Assistant at Morgan State University, focused on interconnected domains of machine learning research in transportation, urban development, climate change, health and air quality, education, and cloud engineering. His research explores resilience and sustainable transportation models for SMART transportation infrastructure. Beyond the lab, Pelumi has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. His support has been instrumental in helping me grow both technically and professionally.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Oludare Owolabi
+  title: Associate Professor, Department of Civil Engineering
   image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  website: https://www.morgan.edu/civil-and-environmental-engineering/faculty-and-staff/dr-oludare-owolabi
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Oludare Owolabi is a leading figure in the Civil Engineering Department at Morgan State. He is the Director of the Sustainable Infrastructure Development, Smart Innovation and Resilient Engineering Research Laboratory as well as the Director of the Undergraduate Geotechnical Laboratory at the department of Civil Engineering. With over three decades of experience in academia and research, his work has focused on solving society problems in transportation engineering, fostering sustainable infrastructure development, and enhancing student engagement in the STEM fields.
 
 ---
