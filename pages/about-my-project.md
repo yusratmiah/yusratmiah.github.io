@@ -19,7 +19,7 @@ approach: |
 outcome: |
   The expected outcome is a robust, non-contact AI-driven system capable of detecting drowsiness in drivers with high accuracy in real-time. It will use image and video analysis to monitor eye movements and facial cues, triggering immediate alerts to prevent accidents. By leveraging transfer learning and adaptive feedback, the system will continually improve its performance. Success will be measured by the student’s ability to build an effective predictive model, implement a functional monitoring and alert system, and document findings through technical reports. The project aims to enhance road safety and reduce fatigue-related accidents, while providing the student with practical experience in AI, machine learning, computer vision, and real-time system development.
 
-final_report_url: TBD
+final_report_url: https://www.example.com/
 
 grad_mentor:
   name: Pelumi Abiodun
