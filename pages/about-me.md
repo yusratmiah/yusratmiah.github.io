@@ -13,6 +13,12 @@ about:
 
     My work explores the intersection of Artificial Intelligence, Software Engineering, Design, and Transportation.
 
+    For Summer 2025, I am working on the Non-Contact AI-Drowsiness Detection System for Safe Driving Research Project. 
+    This project involves deep learning and computer vision technologies. Through this experience, I hope to gain more insight about 
+    the impact of advanced algorithms in society and the various processes that are required for conducting research ethically and methodically.
+
+    I also have experience as a Undergraduate Researcher at Virginia Tech, where I worked on projects related to exploring how personal information is propagated online and space deorbiting systems. 
+
     When I’m not working on research, I enjoy reading books, keeping with automative trends, and exploring the outdoors.
 
   hobbies:
